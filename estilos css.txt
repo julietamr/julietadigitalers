@@ -1,0 +1,8 @@
+/* Esta clase es sólo para referencia de colores */
+.colores {
+    color: #07020D;
+    color: #F1E9DB;
+    color: #5DB7DE;
+    color: #A39B8B;
+    color: #716A5C;
+}
